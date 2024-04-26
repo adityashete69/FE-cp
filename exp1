@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+   printf("Name:- Yash Sawdatkar\n");
+   printf("Std:-FE\n");
+   printf("Div:-I\n");
+   printf("College Name:-Vidyavardhini College Of Engineering\n");
+   return 0;
+}
